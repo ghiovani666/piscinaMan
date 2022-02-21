@@ -458,7 +458,7 @@
                         <h2>¿NECESITAS SERVICIO? LLÁMANOS HOY AL</h2>
                         <div class="call-bx">
                             <div class="icon-col"><i class="fa fa-phone"></i></div>
-                            <div class="phn"><b>916 688 899 / 639238001</b></div>
+                            <div class="phn"><b>+64 (09) 8493938</b></div>
 
                         </div>
                     </div>

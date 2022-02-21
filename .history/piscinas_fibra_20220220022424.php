@@ -925,7 +925,6 @@ function openModal(isValues) {
     display: block;
 }
 
-/* :::::::::::::::::::: solucion temporal :::::::::::::::::::::: */
 .owl-carousel {
     display: block !important;
     width: 100%;
@@ -933,14 +932,13 @@ function openModal(isValues) {
 }
 
 .product-view-one #big .item {
-    padding: unset !important;
+    /* padding: 30px; */
     background-color: #fff;
-    margin-bottom: unset !important;
+    /* margin-bottom: 30px; */
 }
-
 .product-view-one .product-view-one-image {
     background-color: #eee;
-    padding: unset !important;
+    /* padding: 30px; */
 }
 </style>
 

@@ -841,6 +841,7 @@ row_6_1 += '</div>'
 
 
 function openModal(isValues) {
+    console.log(isValues)
     if (isValues == 1) {
         $('#myModal').modal('show');
         $(".imagenes_sliders").html(htmls_1);
@@ -923,24 +924,6 @@ function openModal(isValues) {
     line-height: 1;
     margin-bottom: 20px;
     display: block;
-}
-
-/* :::::::::::::::::::: solucion temporal :::::::::::::::::::::: */
-.owl-carousel {
-    display: block !important;
-    width: 100%;
-    z-index: 1;
-}
-
-.product-view-one #big .item {
-    padding: unset !important;
-    background-color: #fff;
-    margin-bottom: unset !important;
-}
-
-.product-view-one .product-view-one-image {
-    background-color: #eee;
-    padding: unset !important;
 }
 </style>
 

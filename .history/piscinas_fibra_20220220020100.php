@@ -43,10 +43,29 @@
 
 
 
+        <link rel="stylesheet" href="assets/css/bootstrap.min.css">
 
-    <link rel="stylesheet" href="assets/css/boxicons.min.css">
-    <link rel="stylesheet" href="assets/css/style.css">
+<link rel="stylesheet" href="assets/css/owl.theme.default.min.css">
 
+<link rel="stylesheet" href="assets/css/owl.carousel.min.css">
+
+<link rel="stylesheet" href="assets/css/animate.min.css">
+
+<link rel="stylesheet" href="assets/css/boxicons.min.css">
+
+<link rel="stylesheet" href="assets/css/magnific-popup.min.css">
+
+<link rel="stylesheet" href="assets/css/flaticon.css">
+
+<link rel="stylesheet" href="assets/css/meanmenu.min.css">
+
+<link rel="stylesheet" href="assets/css/nice-select.min.css">
+
+<link rel="stylesheet" href="assets/css/odometer.min.css">
+
+<link rel="stylesheet" href="assets/css/style.css">
+
+<link rel="stylesheet" href="assets/css/responsive.css">
 
 
 </head>
@@ -923,24 +942,6 @@ function openModal(isValues) {
     line-height: 1;
     margin-bottom: 20px;
     display: block;
-}
-
-/* :::::::::::::::::::: solucion temporal :::::::::::::::::::::: */
-.owl-carousel {
-    display: block !important;
-    width: 100%;
-    z-index: 1;
-}
-
-.product-view-one #big .item {
-    padding: unset !important;
-    background-color: #fff;
-    margin-bottom: unset !important;
-}
-
-.product-view-one .product-view-one-image {
-    background-color: #eee;
-    padding: unset !important;
 }
 </style>
 

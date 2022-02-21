@@ -43,10 +43,29 @@
 
 
 
+        <link rel="stylesheet" href="assets/css/bootstrap.min.css">
 
-    <link rel="stylesheet" href="assets/css/boxicons.min.css">
-    <link rel="stylesheet" href="assets/css/style.css">
+<link rel="stylesheet" href="assets/css/owl.theme.default.min.css">
 
+<link rel="stylesheet" href="assets/css/owl.carousel.min.css">
+
+<link rel="stylesheet" href="assets/css/animate.min.css">
+
+<link rel="stylesheet" href="assets/css/boxicons.min.css">
+
+<link rel="stylesheet" href="assets/css/magnific-popup.min.css">
+
+<link rel="stylesheet" href="assets/css/flaticon.css">
+
+<link rel="stylesheet" href="assets/css/meanmenu.min.css">
+
+<link rel="stylesheet" href="assets/css/nice-select.min.css">
+
+<link rel="stylesheet" href="assets/css/odometer.min.css">
+
+<link rel="stylesheet" href="assets/css/style.css">
+
+<link rel="stylesheet" href="assets/css/responsive.css">
 
 
 </head>
@@ -694,6 +713,18 @@
     <!-- <script src="assets/js/bootstrap.bundle.min.js"></script> -->
 
 
+
+
+
+
+
+    <script src="assets/js/owl.carousel.min.js"></script>
+
+ 
+
+    <script src="assets/js/custom.js"></script>
+
+
 </body>
 
 <!-- Mirrored from templates.envytheme.com/Piscinas Arroyomolinos/default/services-style-three.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 24 May 2021 17:56:04 GMT -->
@@ -923,24 +954,6 @@ function openModal(isValues) {
     line-height: 1;
     margin-bottom: 20px;
     display: block;
-}
-
-/* :::::::::::::::::::: solucion temporal :::::::::::::::::::::: */
-.owl-carousel {
-    display: block !important;
-    width: 100%;
-    z-index: 1;
-}
-
-.product-view-one #big .item {
-    padding: unset !important;
-    background-color: #fff;
-    margin-bottom: unset !important;
-}
-
-.product-view-one .product-view-one-image {
-    background-color: #eee;
-    padding: unset !important;
 }
 </style>
 

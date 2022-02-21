@@ -601,7 +601,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6 col-md-6">
                         <div class="product-view-one-image">
-                            <div id="big" class="owl-carousel owl-theme imagenes_sliders"></div>
+                            <div id="big"></div>
                             <!-- <div id="thumbs" class="owl-carousel owl-theme imagenes_sliders"></div> -->
                         </div>
                     </div>
@@ -841,8 +841,10 @@ row_6_1 += '</div>'
 
 
 function openModal(isValues) {
+    console.log(isValues)
     if (isValues == 1) {
         $('#myModal').modal('show');
+        console.log(htmls_1)
         $(".imagenes_sliders").html(htmls_1);
     } else if (isValues == 2) {
         $('#myModal').modal('show');
@@ -923,24 +925,6 @@ function openModal(isValues) {
     line-height: 1;
     margin-bottom: 20px;
     display: block;
-}
-
-/* :::::::::::::::::::: solucion temporal :::::::::::::::::::::: */
-.owl-carousel {
-    display: block !important;
-    width: 100%;
-    z-index: 1;
-}
-
-.product-view-one #big .item {
-    padding: unset !important;
-    background-color: #fff;
-    margin-bottom: unset !important;
-}
-
-.product-view-one .product-view-one-image {
-    background-color: #eee;
-    padding: unset !important;
 }
 </style>
 

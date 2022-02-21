@@ -52,7 +52,7 @@
     <section class="banner_area_plane">
         <div class="container">
             <div class="banner_content">
-                <h3>Contáctenos</h3>
+                <h3>Localización</h3>
             </div>
         </div>
     </section>
@@ -64,80 +64,10 @@
         <div class="container">
             <div class="contact_us_inner">
                 <div class="section_title">
-                    <h2>Nuestros datos de contacto</h2>
-                    <p>¿Desea conocer mejor nuestra oferta? Visite nuestra tienda en Piscinas</p>
+                    <h2>Nuestros datos de Localización</h2>
+                    <p style="text-align: center">¿ Desea conocer mejor nuestra localizacion ?</p>
                 </div>
-                <div class="row">
-                    <div class="col-md-4">
-                        <div class="contact_us_details">
-                            <div class="row">
 
-                                <div class="c_details_item">
-                                    <div class="media">
-                                        <div class="media-left">
-                                            <i class="fa fa-map-marker"></i>
-                                        </div>
-                                        <div class="media-body">
-                                            <p> Calle Torneros, 2 Polígono Industrial Valdefuentes Arroyomolinos. 28939. Madrid.</p>
-                                        </div>
-                                    </div>
-
-                                </div>
-
-                                <div class="c_details_item">
-                                    <div class="media">
-                                        <div class="media-left">
-                                            <i class="fa fa-envelope-o"></i>
-                                        </div>
-                                        <div class="media-body">
-                                            <a href="#"><span class="__cf_email__">soporte@gmail.com</span></a>
-             
-                                        </div>
-                                    </div>
-                                </div>
-
-
-                                <div class="c_details_item">
-                                    <div class="media">
-                                        <div class="media-left">
-                                            <i class="fa fa-phone"></i>
-                                        </div>
-                                        <div class="media-body">
-                                            <a href="#">916 688 899 / 639238001</a>
-                                        </div>
-                                    </div>
-                                </div>
-
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-8">
-                        <div class="row">
-                            <form class="contact_us_form"
-                                action="https://codifystudioz.com/cs-theme/plumbor/Demo_2/inc/sendemail.php">
-                                <div class="form-group col-md-12">
-                                    <input type="text" class="form-control" id="name" name="name" placeholder="Nombre y Apellidos">
-                                </div>
-                                <div class="form-group col-md-12">
-                                    <input type="email" class="form-control" id="email" name="email"
-                                        placeholder="Email">
-                                </div>
-                                <div class="form-group col-md-12">
-                                    <input type="text" class="form-control" id="subject" name="subject"
-                                        placeholder="Asunto">
-                                </div>
-                                <div class="form-group col-md-12">
-                                    <textarea class="form-control" name="message" id="message" rows="1"
-                                        placeholder="Mensaje"></textarea>
-                                </div>
-                                <div class="form-group col-md-12">
-                                    <button type="submit" value="submit" class="theme_btn btn-lg">Enviar Ahora</button>
-                                </div>
-                            </form>
-                        </div>
-                    </div>
-
-                </div>
             </div>
 
         </div>
@@ -150,7 +80,10 @@
             <div class="inner-box">
                 <div class="map-outer">
                     <!--Map Canvas-->
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12171.43338191906!2d-3.9066615!3d40.3011041!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x397a9b902a6814ae!2sPiscinas%20Arroyomolinos!5e0!3m2!1sen!2spe!4v1645404285704!5m2!1sen!2spe" width="100%" height="450" frameborder="0" allowfullscreen="" loading="lazy"></iframe>
+
+
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d194347.3844107446!2d-3.81961941388894!3d40.43813107957859!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd422997800a3c81%3A0xc436dec1618c2269!2zTWFkcmlkLCBFc3Bhw7Fh!5e0!3m2!1ses-419!2spe!4v1645396253913!5m2!1ses-419!2spe" width="100%" height="450" frameborder="0" allowfullscreen="" loading="lazy"></iframe>
+
 
                 </div>
             </div>

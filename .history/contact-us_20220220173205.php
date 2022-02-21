@@ -78,7 +78,7 @@
                                             <i class="fa fa-map-marker"></i>
                                         </div>
                                         <div class="media-body">
-                                            <p> Calle Torneros, 2 Polígono Industrial Valdefuentes Arroyomolinos. 28939. Madrid.</p>
+                                            <p> Lorance Road 542B,A 7 Sector 10,Wordwide Country</p>
                                         </div>
                                     </div>
 
@@ -103,7 +103,7 @@
                                             <i class="fa fa-phone"></i>
                                         </div>
                                         <div class="media-body">
-                                            <a href="#">916 688 899 / 639238001</a>
+                                            <a href="#">91 120 4255611</a>
                                         </div>
                                     </div>
                                 </div>
@@ -144,18 +144,7 @@
     </section>
     <!--================End Contact Us Area =================-->
 
-    <!-- Start Map Section -->
-    <div class="container-fluid">
-        <div class="map-column col-md-12 col-sm-6 col-xs-12">
-            <div class="inner-box">
-                <div class="map-outer">
-                    <!--Map Canvas-->
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12171.43338191906!2d-3.9066615!3d40.3011041!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x397a9b902a6814ae!2sPiscinas%20Arroyomolinos!5e0!3m2!1sen!2spe!4v1645404285704!5m2!1sen!2spe" width="100%" height="450" frameborder="0" allowfullscreen="" loading="lazy"></iframe>
-
-                </div>
-            </div>
-        </div>
-    </div>
+  
     <!-- End Map Section -->
 
     <div class="zigjag-bg">

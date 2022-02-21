@@ -43,7 +43,9 @@
 
 
 
+        <link rel="stylesheet" href="assets/css/owl.theme.default.min.css">
 
+<link rel="stylesheet" href="assets/css/owl.carousel.min.css">
     <link rel="stylesheet" href="assets/css/boxicons.min.css">
     <link rel="stylesheet" href="assets/css/style.css">
 
@@ -923,24 +925,6 @@ function openModal(isValues) {
     line-height: 1;
     margin-bottom: 20px;
     display: block;
-}
-
-/* :::::::::::::::::::: solucion temporal :::::::::::::::::::::: */
-.owl-carousel {
-    display: block !important;
-    width: 100%;
-    z-index: 1;
-}
-
-.product-view-one #big .item {
-    padding: unset !important;
-    background-color: #fff;
-    margin-bottom: unset !important;
-}
-
-.product-view-one .product-view-one-image {
-    background-color: #eee;
-    padding: unset !important;
 }
 </style>
 

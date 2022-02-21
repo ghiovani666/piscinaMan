@@ -45,9 +45,9 @@
                 <ul class="quick-links">
 
                     <li><a href="#">Inicio</a></li>
-                    <li><a href="#">Localización</a></li>
-                    <li><a href="#">Contacto</a></li>
-                    <li><a href="#">Instalaciones y reparaciones</a></li>
+                    <li><a href="#">Sobre Nosotros</a></li>
+                    <li><a href="#">Servicios</a></li>
+                    <li><a href="#">Galería</a></li>
                     <li><a href="#">Contacto</a></li>
                 </ul>
             </div>

@@ -925,22 +925,15 @@ function openModal(isValues) {
     display: block;
 }
 
-/* :::::::::::::::::::: solucion temporal :::::::::::::::::::::: */
+.product-view-one #big .item {
+    padding: unset !important;
+    background-color: #fff;
+    margin-bottom: 30px;
+}
 .owl-carousel {
     display: block !important;
     width: 100%;
     z-index: 1;
-}
-
-.product-view-one #big .item {
-    padding: unset !important;
-    background-color: #fff;
-    margin-bottom: unset !important;
-}
-
-.product-view-one .product-view-one-image {
-    background-color: #eee;
-    padding: unset !important;
 }
 </style>
 
